@@ -23,7 +23,7 @@
     <a href="https://github.com/suphiyasin/Discord-User-API/blob/main/README-TR.md" style="font-size:24px">English</a>
 </p>
 
-# Firstly
+# İlk Önce
 Discord'tan cookie alın . Lutfen öğeyi incele > network ve gelen xhr verilerinden alınız. Cookie alan eklentiler eksik cookie verebiliyor.
 Ve ardından login fonksiyonunu kullanın gelen tokeni bir yere kayıt edin
 İlk başta bunu çalıştırın : 
@@ -42,9 +42,9 @@ $use->auth = 'BURAYA YAPIŞTIR';
 artık her fonksiyonda giriş yapmasına gerek yok.
 ama isteyenler auth kodunu yazmadan login fonksiyonunu kullansın.
 
-# Examples 
+# Örnekler 
 
-### Server
+### Sunucu
 1- Sunucu Oluştur
 
 ```
@@ -84,7 +84,7 @@ $use->changeOwner("SERVER LINK", "NEW ADMIN DM LINK (EXPL => https://discord.com
 $use = new dc();
 $use->cookie = 'CLOUDFLARED DISCORD COOKIE';
 $use->auth = 'Auth Code';
-$use->joinServer("DISCORD TAG EXMPL => valorant , github ");
+$use->joinServer("DISCORD TAG ORNK => valorant , github, elraenn ");
 //not url
 ```
 
@@ -148,8 +148,8 @@ $use->auth = 'Auth Code';
 $use->messages("DM LINK");
 ```
 
-### Other
-1- Get User Info (Profile Pic, UserID)
+### Diğer
+1- User Info Al (Profile Pic, UserID)
 ```
 $use = new dc();
 $use->cookie = 'CLOUDFLARED DISCORD COOKIE';

@@ -1,5 +1,25 @@
-# Discord User API
-An API that does the user's work
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/suphiyasin/Discord-User-API&count_bg=%23C83D3D&title_bg=%23057386&icon=&icon_color=%23BA0808&title=View&edge_flat=false)](https://github.com/suphiyasin/Discord-User-API)
+
+
+<br />
+<p align="center">
+<a href="https://github.com/suphiyasin/Discord-User-API/">
+<img src="https://www.drupal.org/files/project-images/discord_logo_0.png" alt="Logo" width="80" height="80" />
+</a>
+
+<h3 align="center">Dıscord User API V1.0.0</h3>
+
+<p align="center">
+    An API that does the user's work.
+    <br>
+    <a href="https://github.com/suphiyasin/Discord-User-API/issues">Feedback</a>
+    <br>
+    <a href="https://github.com/suphiyasin/Discord-User-API/blob/main/README-TR.md" style="font-size:24px">Türkçe</a>
+</p>
 
 # Firstly
 Get CloudFlare cookie from discord.com (For 'im not a robot')

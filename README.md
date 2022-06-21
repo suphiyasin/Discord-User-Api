@@ -10,7 +10,7 @@
 <br />
 <p align="center">
 <a href="https://github.com/suphiyasin/Discord-User-API/">
-<img src="https://www.drupal.org/files/project-images/discord_logo_0.png" alt="Logo" width="800" height="150" />
+<img src="https://www.drupal.org/files/project-images/discord_logo_0.png" alt="Logo" width="800" height="270" />
 </a>
 
 <h3 align="center">Dıscord User API V1.0.0</h3>

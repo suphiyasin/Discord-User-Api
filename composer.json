@@ -5,6 +5,7 @@
 "keywords":["Discord","API", "Joiner", "Spammer", "Discord-auto", "Unofficial-api", "joiner-bot"],
 "homepage":"https://github.com/suphiyasin/Discord-User-API",
 "license":"MIT",
+"minimum-stability":"stable",
 "authors":[
 {
 "name":"Suphi Yasin"

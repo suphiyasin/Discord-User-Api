@@ -1,0 +1,17 @@
+{
+“name”:”suphiyasin/Discord-User-API”,
+“type”:”project”,
+“description”:”An API that does the user's work”,
+“keywords”:[“Discord”,”API”, ”Joiner”, ”Spammer”, ”Discord-auto”, ”Unofficial-api”, ”joiner-bot”],
+“homepage”:”https://github.com/suphiyasin/Discord-User-API”,
+“license”:”MIT”,
+“authors”:[
+{
+“name”:”Suhi Yasin”,
+"homepage": "https://wwww.suphi.org",
+}
+],
+“require”:{
+“suphiyasin/Discord-User-API”:”~1.0″
+}
+}

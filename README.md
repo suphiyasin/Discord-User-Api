@@ -43,3 +43,45 @@ $use->cookie = 'CLOUDFLARED DISCORD COOKIE';
 $use->auth = 'Auth Code';
 $use->sendServer("YOUR MESSAGE", "[LINK OF THE CHANNEL YOU SENT THE MESSAGE]");
 ```
+4- Change Owner
+
+```
+$use = new dc();
+$use->cookie = 'CLOUDFLARED DISCORD COOKIE';
+$use->auth = 'Auth Code';
+$use->changeOwner("SERVER LINK", "NEW ADMIN DM LINK (EXPL => https://discord.com/channels/XXXX/XXXX )");
+```
+
+### User
+1- Change Statu 
+```
+$use = new dc();
+$use->cookie = 'CLOUDFLARED DISCORD COOKIE';
+$use->auth = 'Auth Code';
+//invisible, dnd, idle, online
+$use->setStatu("online");
+```
+
+2-Public Statu
+```
+$use = new dc();
+$use->cookie = 'CLOUDFLARED DISCORD COOKIE';
+$use->auth = 'Auth Code';
+$use->PubStatu("Yo Bro Whatzup", "👍");
+```
+
+3- Username Change
+```
+$use = new dc();
+$use->cookie = 'CLOUDFLARED DISCORD COOKIE';
+$use->auth = 'Auth Code';
+$use->changeUsername("NEW USERNAME", "discordPassword");
+```
+
+4- Password Change
+```
+$use = new dc();
+$use->cookie = 'CLOUDFLARED DISCORD COOKIE';
+$use->auth = 'Auth Code';
+$use->changePassword("OLD PASS", "NEW PASS");
+```

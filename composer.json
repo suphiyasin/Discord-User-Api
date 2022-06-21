@@ -11,10 +11,9 @@
 }
 ],
 "require":{
- "php" : "~7.1",
- "suphiyasin/discord-user-api":"~1.0"
+ "php" : "~7.1"
 }
-  "repositories": [
+"repositories": [
     {
        "type": "vcs",
        "url": "https://github.com/suphiyasin/Discord-User-Api" 

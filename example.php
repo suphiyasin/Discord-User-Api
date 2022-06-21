@@ -9,9 +9,10 @@ $use->cookie = '__dcfduid=412b5a70eb3f11eca5b82b8480bd3aa1; __sdcfduid=412b5a71e
 
 //$use->auth = '';
 
+//serverlink, newOwner DM Lınk
 //$use->changeOwner("https://discord.com/channels/823979362306883645/823979362306883648", "https://discord.com/channels/823979362306883645/823979362306883648");
 
-//$use->createServer("saleam");
+//$use->createServer("New Server");
 
 //$use->deleteServer("https://discord.com/channels/988562948479910011/988562949226516504");
 
@@ -21,7 +22,7 @@ $use->cookie = '__dcfduid=412b5a70eb3f11eca5b82b8480bd3aa1; __sdcfduid=412b5a71e
 
 //$use->getFriends();
 
-//$use->joinServer("reyhan");
+//$use->joinServer("elraenn");
  
 //$use->changeUsername("NEW USERNAME", Password");
  
@@ -32,7 +33,7 @@ $use->cookie = '__dcfduid=412b5a70eb3f11eca5b82b8480bd3aa1; __sdcfduid=412b5a71e
 //$use->changePassword("Password", "NewPassword");
 
 //message, dm link, username
-//$use->sendMessage("Message", "https://discord.com/channels/@me/988176158640189490", "bedirhannkopar");
+//$use->sendMessage("Your Message", "https://discord.com/channels/@me/988176158640189490", "bedirhannkopar");
 
 
 //invisible, dnd, idle, online

@@ -12,6 +12,6 @@
 ],
 "require":{
  "php" : "~7.1",
- "suphiyasin/discord-user-api":"1.0"
+ "suphiyasin/discord-user-api":"~1.0"
 }
 }

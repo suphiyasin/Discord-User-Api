@@ -11,6 +11,7 @@
 }
 ],
 "require":{
- "php" : "~7.1"
+ "php" : "~7.1",
+ "mustafayilmazist/composer_olusturmak":"1.0"
 }
 }

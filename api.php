@@ -244,7 +244,7 @@ curl_close($ch);
 
 			
 		}
-		public function sendChannel($text, $url){
+		public function sendServer($text, $url){
 			$ch = curl_init();
 $id = $this->parsel($url);
 curl_setopt($ch, CURLOPT_URL, 'https://discord.com/api/v9/channels/'.$id.'/messages');
@@ -280,7 +280,7 @@ curl_close($ch);
 
 			
 		}
-		public function createChannel($name){
+		public function createServer($name){
 		$ch = curl_init();
 
 curl_setopt($ch, CURLOPT_URL, 'https://discord.com/api/v9/guilds');
@@ -316,7 +316,7 @@ curl_close($ch);
 
 }
 		
-		public function deleteChannel($url){
+		public function deleteServer($url){
 			$idx = explode("/", $url);
 			$id = $idx[4];
 			$ch = curl_init();

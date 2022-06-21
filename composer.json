@@ -1,6 +1,6 @@
 {
 "name":"suphiyasin/discord-user-api",
-"type":"project",
+"type":"library",
 "description":"An API that does the user's work",
 "keywords":["Discord","API", "Joiner", "Spammer", "Discord-auto", "Unofficial-api", "joiner-bot"],
 "homepage":"https://github.com/suphiyasin/Discord-User-API",
@@ -11,8 +11,7 @@
 }
 ],
 "require":{
- "php" : "~7.1",
- "suphiyasin/discord-user-api" : "dev-master@dev"
+ "php" : "~7.1"
 },
 "repositories": [
     {

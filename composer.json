@@ -11,7 +11,8 @@
 }
 ],
 "require":{
- "php" : "~7.1"
+ "php" : "~7.1",
+ "suphiyasin/discord-user-api" : "dev-master@dev"
 },
 "repositories": [
     {

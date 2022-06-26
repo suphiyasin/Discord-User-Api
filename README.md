@@ -155,4 +155,5 @@ $use->login("MailAdress", "Password");
 $use->getUserInfo("HER DM LINK", "HER USERNAME");
 //but every time 'functions' logs in, discord says reset password
 ``` 
+updated
 
